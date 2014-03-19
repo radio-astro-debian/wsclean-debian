@@ -1,0 +1,5 @@
+wsclean (0.1-1precise1) precise; urgency=low
+
+  * Initial release
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Wed, 19 Mar 2014 15:46:20 +0200

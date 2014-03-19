@@ -1,0 +1,14 @@
+Source: wsclean
+Section: science
+Priority: extra
+Maintainer: Gijs Molenaar <gijs@pythonic.nl>
+Build-Depends: debhelper (>= 8.0.0), cmake
+Standards-Version: 3.9.2
+Homepage: http://www.meqtrees.net
+
+Package: wsclean
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
