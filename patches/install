@@ -1,0 +1,11 @@
+Description: add missing cmake install statement
+
+--- wsclean-1.0.orig/CMakeLists.txt
++++ wsclean-1.0/CMakeLists.txt
+@@ -86,3 +86,6 @@ add_executable(wsclean wsclean.cpp beame
+ set_target_properties(wsclean PROPERTIES COMPILE_FLAGS "-std=c++0x")
+ 
+ target_link_libraries(wsclean ${CASA_LIBS} ${FFTW3_LIB} ${Boost_THREAD_LIBRARY} ${Boost_SYSTEM_LIBRARY} ${FITSIO_LIB})
++
++install (TARGETS wsclean DESTINATION bin)
++
