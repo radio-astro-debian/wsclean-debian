@@ -1,3 +1,9 @@
+wsclean (1.0-1trusty) trusty; urgency=low
+
+  * build for trusty
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Fri, 04 Apr 2014 14:24:29 +0200
+
 wsclean (1.0-1precise1) precise; urgency=low
 
   * Initial release
