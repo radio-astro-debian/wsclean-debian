@@ -1,3 +1,9 @@
+wsclean (1.0.1-1precise1) precise; urgency=low
+
+  * Faking 1.0.1 release to get current fix for WEIGHT_SPECTRUM in. Probbaly very naughty of me.
+
+ -- Oleg Smirnov <osmirnov@gmail.com>  Mon, 14 Apr 2014 17:19:02 +0200
+
 wsclean (1.0-2precise1) precise; urgency=low
 
   [ Gijs Molenaar ]
