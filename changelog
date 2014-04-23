@@ -1,3 +1,9 @@
+wsclean (1.1-1precise1ubuntu1) precise; urgency=low
+
+  * New upstream release 
+
+ -- Oleg Smirnov <osmirnov@gmail.com>  Wed, 23 Apr 2014 11:48:13 +0200
+
 wsclean (1.0.1-1precise1) precise; urgency=low
 
   * Faking 1.0.1 release to get current fix for WEIGHT_SPECTRUM in. Probbaly very naughty of me.
