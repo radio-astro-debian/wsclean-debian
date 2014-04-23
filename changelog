@@ -1,3 +1,9 @@
+wsclean (1.1-1precise1ubuntu2) precise; urgency=low
+
+  * added deps for blas and gsl
+
+ -- Oleg Smirnov <osmirnov@gmail.com>  Wed, 23 Apr 2014 12:12:52 +0200
+
 wsclean (1.1-1precise1ubuntu1) precise; urgency=low
 
   * New upstream release 
