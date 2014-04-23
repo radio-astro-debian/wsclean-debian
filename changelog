@@ -1,3 +1,9 @@
+wsclean (1.1-2precise1) precise; urgency=low
+
+  * adjusted version number as per new convention
+
+ -- Oleg Smirnov <osmirnov@gmail.com>  Wed, 23 Apr 2014 12:37:16 +0200
+
 wsclean (1.1-1precise1ubuntu2) precise; urgency=low
 
   * added deps for blas and gsl
