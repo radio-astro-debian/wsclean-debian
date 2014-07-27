@@ -1,8 +1,8 @@
-wsclean (1.1-2precise1) precise; urgency=low
+wsclean (1.2.1-1precise1) precise; urgency=low
 
-  * adjusted version number as per new convention
+  * new upstream release
 
- -- Oleg Smirnov <osmirnov@gmail.com>  Wed, 23 Apr 2014 12:37:16 +0200
+ -- Oleg Smirnov <osmirnov@gmail.com>  Sun, 27 Jul 2014 21:24:49 +0200
 
 wsclean (1.1-1precise1ubuntu2) precise; urgency=low
 
